@@ -1,8 +1,8 @@
 ﻿using System.Text.RegularExpressions;
 
-namespace Advent_Of_Code;
+namespace Advent_Of_Code.Solutions;
 
-public partial class Problem1
+public partial class Day1
 {
     private const string Input1 = "1abc2\npqr3stu8vwx\na1b2c3d4e5f\ntreb7uchet";
 

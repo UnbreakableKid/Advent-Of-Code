@@ -1,3 +1,3 @@
-﻿using Advent_Of_Code;
+﻿using Advent_Of_Code.Solutions;
 
-Problem1.Run_Part2();
+Day1.Run_Part2();
